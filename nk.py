@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<conio.h>
-#define rafik main
+# include <stdio.h>
+# include <conio.h>
+# define rafik main
 void rafik()
 {
 clrscr();

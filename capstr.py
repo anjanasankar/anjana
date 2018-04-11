@@ -1,0 +1,11 @@
+Str1 = 'learn PYTHON at home by ourselves'
+Str2 = Str1.capitalize()
+print('First Output after capitalize() method is = ', Str2)
+print('Converted String is = ', Str1.capitalize())
+print('Original String is = ', Str1)
+Str3 = 'pYTHON proGramminG'.capitalize()
+print('Second Output after Capitalize() method is = ', Str3)
+Str4 = 'pyTHon 1234 tuTorIal'.capitalize()
+print('Third Output after Capitalize() method is = ', Str4)
+Str5 = '12345'.capitalize()
+print('Fourth Output after Capitalize() method is = ', Str5)
